@@ -32,3 +32,7 @@
 `$ node yargs.js --name=rance --age=25`
 
 * The `.command()` option helps create and call Node functions from command line.
+
+## Assertions
+
+* `console.assert()` is a way to test code for bugs. Not common but one method.
